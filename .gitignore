@@ -6,6 +6,7 @@ app.egg-info
 htmlcov
 .cache
 .venv
+.env
 
 # macOS
 .DS_Store
